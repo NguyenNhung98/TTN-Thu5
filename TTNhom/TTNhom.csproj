@@ -185,9 +185,14 @@
     <Content Include="Content\img\back-top.png" />
     <Content Include="Content\img\banner\banner-bg.jpg" />
     <Content Include="Content\img\banner\banner-img.png" />
+    <Content Include="Content\img\banner\banner-img1.png" />
+    <Content Include="Content\img\banner\banner-img2.png" />
     <Content Include="Content\img\banner\common-banner.jpg" />
     <Content Include="Content\img\banner\next.png" />
     <Content Include="Content\img\banner\prev.png" />
+    <Content Include="Content\img\banner\slide1.jpg" />
+    <Content Include="Content\img\banner\slide3.jpg" />
+    <Content Include="Content\img\banner\slide3.png" />
     <Content Include="Content\img\banner_36660e59.png" />
     <Content Include="Content\img\blog-blog2.jpg" />
     <Content Include="Content\img\blog-blog3.jpg" />
@@ -460,18 +465,15 @@
       <DependentUpon>Web.config</DependentUpon>
     </Content>
     <Content Include="Views\Web.config" />
-    <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Home\About.cshtml" />
-    <Content Include="Views\Home\Contact.cshtml" />
-    <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Shared\NguoiDungLayout.cshtml" />
-    <Content Include="Views\User\Index.cshtml" />
     <Content Include="Views\User\Shop.cshtml" />
     <Content Include="Views\User\Blog.cshtml" />
     <Content Include="Views\User\Contact.cshtml" />
     <Content Include="Views\Shared\BreadcrumbsPartial.cshtml" />
+    <Content Include="Views\Shared\UserLayout.cshtml" />
+    <Content Include="Views\User\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
