@@ -166,3 +166,7 @@ C:\Users\Admin\TTN-Thu5\TTNhom\obj\Debug\TTNhom.csproj.CoreCompileInputs.cache
 C:\Users\Admin\TTN-Thu5\TTNhom\obj\Debug\TTNhom.csproj.CopyComplete
 C:\Users\Admin\TTN-Thu5\TTNhom\obj\Debug\TTNhom.dll
 C:\Users\Admin\TTN-Thu5\TTNhom\obj\Debug\TTNhom.pdb
+C:\Users\Admin\TTN-Thu5\TTNhom\bin\PagedList.dll
+C:\Users\Admin\TTN-Thu5\TTNhom\bin\PagedList.Mvc.dll
+C:\Users\Admin\TTN-Thu5\TTNhom\bin\PagedList.xml
+C:\Users\Admin\TTN-Thu5\TTNhom\bin\PagedList.Mvc.xml
