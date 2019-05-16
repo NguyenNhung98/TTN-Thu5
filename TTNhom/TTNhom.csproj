@@ -136,6 +136,13 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\Blog.cs" />
+    <Compile Include="Models\CategoryOfProduct.cs" />
+    <Compile Include="Models\Customer.cs" />
+    <Compile Include="Models\Order.cs" />
+    <Compile Include="Models\OrderDetail.cs" />
+    <Compile Include="Models\PetLandModel.cs" />
+    <Compile Include="Models\Product.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -293,7 +300,6 @@
     <Content Include="Content\img\icon-arrow.png" />
     <Content Include="Content\img\login.jpg" />
     <Content Include="Content\img\logo.png" />
-    <Content Include="Content\img\logo2.jpg" />
     <Content Include="Content\img\makeup.jpg" />
     <Content Include="Content\img\makeup1.jpg" />
     <Content Include="Content\img\makeup2.jpg" />
@@ -475,7 +481,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
